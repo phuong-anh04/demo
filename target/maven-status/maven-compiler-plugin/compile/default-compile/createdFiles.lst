@@ -1,0 +1,9 @@
+com\example\demo\DemoApplication.class
+com\happydecor\usermanagement\controller\HomeController.class
+com\happydecor\usermanagement\controller\AdminController.class
+com\happydecor\usermanagement\repository\UserRepository.class
+com\happydecor\usermanagement\service\UserService.class
+com\happydecor\usermanagement\controller\UserController.class
+com\happydecor\usermanagement\config\SecurityConfig.class
+com\happydecor\usermanagement\controller\AuthController.class
+com\happydecor\usermanagement\model\User.class
